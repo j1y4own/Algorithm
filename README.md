@@ -3,3 +3,9 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 ---
 
+Log for Algorithm Learning for Coding Test
+
+#### Related Site
+- Baekjoon
+- Programmers
+- LeetCode
